@@ -42,6 +42,3 @@ class Migration(migrations.Migration):
             field=models.ForeignKey(null=True, on_delete=django.db.models.deletion.CASCADE, to='patient.Patient'),
         ),
     ]
-
-# $ python manage.py makemigrations your_app_label
-# keshtu krijohet nje migration

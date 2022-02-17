@@ -20,5 +20,3 @@ class Migration(migrations.Migration):
             ],
         ),
     ]
-
-    # Ketu krijohet tabela Stock me fushat (atributet) id, bloddgroup...
